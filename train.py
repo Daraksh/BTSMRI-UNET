@@ -1,6 +1,6 @@
 import os
 import numpy as np
-from custom_datagen import imageLoader
+from dataloader import imageLoader
 #import tensorflow as tf
 import keras
 from keras.models import load_model
